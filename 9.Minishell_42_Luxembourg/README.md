@@ -1,5 +1,5 @@
 <h1 align=center>
-	<b>minishell</b>
+	<b>Minishell</b>
 </h1>
 
 <p align=center>

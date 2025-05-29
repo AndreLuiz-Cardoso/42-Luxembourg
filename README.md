@@ -56,6 +56,7 @@ Learning at 42 Luxembourg is divided into **learning circles (orbits)**. Each or
 ### 🧠 Orbit 2: I/O & Formatted Output
 - 📖 **Get Next Line:** Read files line by line with buffer management.
 - 🖨️ **Printf:** Recreate the printf function with all major format specifiers.
+- 🔐 **Born2beroot:** Introduction to system administration and security. Learn to set up and harden a Linux-based virtual machine using LVM, configure UFW, SSH, password policies, and essential system services.
 
 ### 🎯 Orbit 3: Data Transfer & Algorithmic Thinking
 - 📨 **Minitalk:** Implement message passing between processes using signals.
@@ -66,7 +67,25 @@ Learning at 42 Luxembourg is divided into **learning circles (orbits)**. Each or
 - 🍝 **Philosophers:** Solve the dining philosophers problem using threads and mutexes.
 - 🐚 **Minishell:** Build a fully functional Unix shell with support for pipes, redirections, signals, and built-in commands.
 
----
+### 🧬 Orbit 5: Networking, Graphics & OOP
+
+- 🌐 **NetPractice:** Interactive project to deepen your understanding of computer networking. Simulate and debug real-world network setups by working with IP addressing, routing, and subnetting.
+- 🕹️ **Cub3D:** Create a basic 3D game using raycasting techniques in C. Develop your own game engine with texture mapping, player movement, collision detection, and real-time rendering using MiniLibX.
+- 🧠 **CPP Modules:** Comprehensive introduction to C++ and Object-Oriented Programming. Master key concepts like classes, inheritance, polymorphism, encapsulation, operator overloading, and modular design.
+
+
+--- 
+
+## 📂 Project Folders
+
+- [Libft](https://github.com/AndreLuiz-Cardoso/42-Luxembourg/tree/main/1.libft_42Luxembourg)
+- [Ft_Printf](https://github.com/AndreLuiz-Cardoso/42-Luxembourg/tree/main/2.Ft_Printf_42Luxembourg)
+- [Get_Next_Line](https://github.com/AndreLuiz-Cardoso/42-Luxembourg/tree/main/3.Get_Next_Line_42Luxembourg)
+- [Minitalk](https://github.com/AndreLuiz-Cardoso/42-Luxembourg/tree/main/5.minitalk_42Luxembourg)
+- [So_Long](https://github.com/AndreLuiz-Cardoso/42-Luxembourg/tree/main/6.So_Long_42Luxembourg)
+- [Push_Swap](https://github.com/AndreLuiz-Cardoso/42-Luxembourg/tree/main/7.Push_Swap_42Luxembourg)
+- [Philosophers](https://github.com/AndreLuiz-Cardoso/42-Luxembourg/tree/main/8.Philosophers_42_Luxembourg)
+- [Minishell](https://github.com/AndreLuiz-Cardoso/42-Luxembourg/tree/main/9.Minishell_42_Luxembourg)
 
 ## 🧗 Challenges and 💎 Benefits
 
